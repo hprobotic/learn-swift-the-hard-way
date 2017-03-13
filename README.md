@@ -1,1 +1,1 @@
-# learn-swift-the-hard-way
+# Learn Swift the Hard Way
